@@ -1,4 +1,4 @@
-## Building CryptoNote 
+## Building SlowChain 
 
 ### On *nix
 
